@@ -18,4 +18,4 @@ Rumination Vanquished allows the user to track unwanted thought patters and auto
 [(Back to top)](#rumination-vanquished)
 
 
-The MIT License (MIT) 2017 - [Micah Cabrera](https://github.com/MicahBe). Please have a look at the [LICENSE.md](LICENSE.md) for more details.
+GNU General Public License v3.0 2023 - [Micah Cabrera](https://github.com/MicahBe). Please have a look at the [LICENSE](LICENSE) for more details.
